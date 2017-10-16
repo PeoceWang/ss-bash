@@ -1,0 +1,21 @@
+{
+    "server": "0.0.0.0",
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "timeout":300,
+    "method":"chacha20",
+    "fast_open": true,
+    "port_password": {
+        "443": "6MBgCDfrhd6c",
+        "35002": "4mOD9nPJfZ4r",
+        "35003": "hjs25N4Cp0h3",
+        "35004": "i9APm43LNkfl",
+        "35005": "A8w9BHOEdwEL",
+        "35006": "w7VsSqRFfR5f",
+        "35008": "bj1zY8Wi7fUx",
+        "35010": "h81GHwKflES9",
+        "35009": "rEMDT4Bep4r4",
+        "35007": "069fKMjis50A",
+        "35001": "9vXVclRQWiBp"
+    }
+}
